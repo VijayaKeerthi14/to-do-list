@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/VijayaKeerthi14/to-do-list]
-   cd servlet-task-manager
+   cd to-do-list
    Set up a Java EE server (like Apache Tomcat):
 
 Download and install Apache Tomcat.
