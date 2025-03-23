@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Anuvooda/servlet-task-manager.git
+   git clone [https://github.com/VijayaKeerthi14/to-do-list]
    cd servlet-task-manager
    Set up a Java EE server (like Apache Tomcat):
 
@@ -71,9 +71,9 @@ Create a pull request
 Contact
 For any questions or feedback, please reach out to:
 
-Anusha Vooda
+Vijaya Keerthi Dasari
 
-GitHub: Anuvooda
+GitHub: Vijaya Keerthi Dasari
 Thank you for visiting the To_Do_List project repository!
 
 
